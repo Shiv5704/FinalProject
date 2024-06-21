@@ -8,8 +8,8 @@
 <?php
 // Database connection parameters
 $servername = "localhost";
-$username = "root"; // Replace with your MySQL username
-$password = "";     // Replace with your MySQL password
+$username = "root"; 
+$password = "";     
 $dbname = "cms";
 
 // Create connection
