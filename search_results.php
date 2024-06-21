@@ -1,3 +1,10 @@
+/*******w******** 
+        
+        Name: Shivkumar Lad
+        Date: June 21, 2024
+        Description: Search Results
+
+    ****************/
 <?php
 session_start();
 $servername = "localhost";

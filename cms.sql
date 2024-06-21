@@ -1,3 +1,10 @@
+/*******w******** 
+        
+        Name: Shivkumar Lad
+        Date: June 21, 2024
+        Description: Final Project
+
+    ****************/
 CREATE DATABASE cms;
 
 USE cms;

@@ -1,3 +1,10 @@
+/*******w******** 
+        
+        Name: Shivkumar Lad
+        Date: June 21, 2024
+        Description: To add comments
+
+    ****************/
 <?php
 session_start();
 $servername = "localhost";

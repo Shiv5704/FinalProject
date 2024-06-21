@@ -1,3 +1,10 @@
+/*******w******** 
+        
+        Name: Shivkumar Lad
+        Date: June 21, 2024
+        Description: Final Project
+
+    ****************/
 <?php
 // Database connection settings
 $servername = "localhost";
