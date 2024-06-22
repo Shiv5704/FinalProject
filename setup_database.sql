@@ -1,4 +1,8 @@
--- Create database if it doesn't exist
+    
+--      Name: Shivkumar Lad
+--      Date: June 21, 2024
+--      Description: Query for database creation and inserting data.
+
 CREATE DATABASE IF NOT EXISTS cms;
 
 -- Use the database
